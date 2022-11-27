@@ -123,5 +123,5 @@ Color kred = Color(0xFF720E07);
 flutter run
 ```
 
-<img src="t1.jpg" width="300px"/> <img src="t2.jpg" width="300px"/> <img src="t3.jpg" width="300px"/>
+<img src="t1.jpg" width="200px"/> <img src="t2.jpg" width="200px"/> <img src="t3.jpg" width="200px"/>
 
